@@ -1,5 +1,5 @@
-# NLP-Valued-Papers
-Papers that i found and read, related to my work and/or keeping up to date with STOA technologies.
+# NLP Valued Papers
+Papers that i read, found useful, related to my work, and keeping up to date with STOA technologies in different NLP tasks.
 
 ## Sections
 - [Natural Language Processing Papers](#NLP)
