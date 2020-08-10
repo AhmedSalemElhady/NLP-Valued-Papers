@@ -2,7 +2,7 @@
 Papers that i found and read, related to my work and/or keeping up to date with STOA technologies.
 
 ## Sections
-- [Natural Language Processing Papers] (#NLP)
+- [Natural Language Processing Papers](#NLP)
 - [Summarization Papers](#Summarization)
 
 ## NLP
