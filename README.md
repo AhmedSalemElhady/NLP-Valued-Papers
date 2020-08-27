@@ -6,8 +6,8 @@ Papers that i read, found useful, related to my work, and keeping up to date wit
 - [Summarization Papers](#Summarization)
 
 ## NLP
-
-
+- **Supervised Learning of Universal Sentence Representations from Natural Language Inference Data, JULY 2018**: Sentence Embedding, NLI Universal Sentence Encoder. [Link](https://arxiv.org/pdf/1705.02364.pdf)
+ 
 ## Summarization
 
 - **A Sentence Compression Based Framework to Query-Focused Multi-Document Summarization, JUN 2016** : Query Focused Summarization, Extractive Multi-Document Summarization, Extractive Sentence Compression by Removing Irrelevant Parts of the Sentences. [Link](https://arxiv.org/abs/1606.07548)
