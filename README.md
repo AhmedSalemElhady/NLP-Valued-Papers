@@ -25,7 +25,7 @@ Papers that i read, found useful, related to my work, and keeping up to date wit
 - **Query Focused Abstractive Summarization: Incorporating Query Relevance, Multi-Document Coverage, and Summary Length Constraints into seq2seq Models** [Link](https://arxiv.org/abs/1801.07704)
 - **Summarization from medical documents: a survey** [Link](https://arxiv.org/pdf/cs/0504061.pdf)
 
-## SemanticSearchApplications
+## Semantic Search Applications
 - **Unsupervised WhatsApp Fake News Detection using Semantic Search** [Link](https://ieeexplore.ieee.org/abstract/document/9120902)
 
 ## Search Query Intent
