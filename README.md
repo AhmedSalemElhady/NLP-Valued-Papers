@@ -4,7 +4,7 @@ Papers that i read, found useful, related to my work, and keeping up to date wit
 ## Sections
 - [Natural Language Processing Papers](#NLP)
 - [Summarization Papers](#Summarization)
-- [Semantic Search Applications Papers](#Semantic Search Applications)
+- [Semantic Search Applications Papers](#SemanticSearchApplications)
 
 ## NLP
 - **Supervised Learning of Universal Sentence Representations from Natural Language Inference Data, JULY 2018**: Sentence Embedding, NLI Universal Sentence Encoder. [Link](https://arxiv.org/pdf/1705.02364.pdf)
@@ -25,7 +25,7 @@ Papers that i read, found useful, related to my work, and keeping up to date wit
 - **Query Focused Abstractive Summarization: Incorporating Query Relevance, Multi-Document Coverage, and Summary Length Constraints into seq2seq Models** [Link](https://arxiv.org/abs/1801.07704)
 - **Summarization from medical documents: a survey** [Link](https://arxiv.org/pdf/cs/0504061.pdf)
 
-## Semantic Search Applications
+## SemanticSearchApplications
 - **Unsupervised WhatsApp Fake News Detection using Semantic Search** [Link](https://ieeexplore.ieee.org/abstract/document/9120902)
 
 ## Search Query Intent
