@@ -4,7 +4,8 @@ Papers that i read, found useful, related to my work, and keeping up to date wit
 ## Sections
 - [Natural Language Processing Papers](#NLP)
 - [Summarization Papers](#Summarization)
-- [Semantic Search Applications Papers](#SemanticSearchApplications)
+- [Semantic Search Applications Papers](#semantic-search-applications)
+- [Search Query Intent](#Search-Query-Intent)
 
 ## NLP
 - **Supervised Learning of Universal Sentence Representations from Natural Language Inference Data, JULY 2018**: Sentence Embedding, NLI Universal Sentence Encoder. [Link](https://arxiv.org/pdf/1705.02364.pdf)
